@@ -34,9 +34,8 @@ Designed and developed a system that allows users to track admission application
 ---
 
 ### 🌱 Community Clean-Up Platform
-**Technologies Used:**
-- Java  
-- (Add others if you used them, e.g. HTML/CSS, JavaScript)
+**Technologies Used:**  
+-  HTML/CSS, JavaScript
 
 Developed a Java-based platform that allows users to report dirty areas, organize clean-up events, and volunteer.
 
