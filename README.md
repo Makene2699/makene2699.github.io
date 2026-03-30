@@ -58,9 +58,12 @@ Focused on improving community engagement and environmental awareness.
 - Successfully led a team in the design and development of a creative application for Project 2, demonstrating leadership, collaboration, and problem-solving skills. Played a key role in improving the application’s user interface and overall usability by implementing user-centered design principles, resulting in a more intuitive and efficient user experience. Additionally, coordinated team efforts, ensured timely project completion, and maintained clear communication throughout the development process.
 
 
-
+---
+## 🎥 Mock Interview Video
+[Watch My Interview](https://drive.google.com/file/d/1jYGfLVYWbKsvRcSFmPwwtZ7UTa5V9c8X/view?usp=sharing)
 
 ---
+
 
 ## ✨ Reflection
 Through my academic journey, I have developed strong problem-solving skills, teamwork abilities, and technical knowledge. I continue to improve my skills by working on real-world projects and learning new technologies.
