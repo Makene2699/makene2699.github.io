@@ -1,4 +1,3 @@
-# makene2699.github.io
 # 💼 Nhlakanipho Makene
 
 ## 📍 Contact Information
@@ -21,27 +20,24 @@ Third-year ICT Application Development student with a strong foundation in softw
 
 ---
 
-## 💻 Technical Skills
-- **Programming:** Java, Python, JavaScript
-- **Database:** SQL, MySQL
-- **Concepts:** Data Structures, Algorithms, OOP
-
----
-
 ## 🚀 Projects
 
 ### 📌 Admission Tracking System
-Designed and developed a system that allows users to track admission applications in real time. Users can view updates, explore job opportunities, and submit applications.
-
 **Technologies Used:**
-- Java
-- MySQL
-- NetBeans
-- Object-Oriented Programming
+- Java  
+- MySQL  
+- NetBeans  
+- Object-Oriented Programming  
+
+Designed and developed a system that allows users to track admission applications in real time. Users can view updates, explore job opportunities, and submit applications.
 
 ---
 
 ### 🌱 Community Clean-Up Platform
+**Technologies Used:**
+- Java  
+- (Add others if you used them, e.g. HTML/CSS, JavaScript)
+
 Developed a Java-based platform that allows users to report dirty areas, organize clean-up events, and volunteer.
 
 Focused on improving community engagement and environmental awareness.
@@ -49,9 +45,15 @@ Focused on improving community engagement and environmental awareness.
 ---
 
 ## 👥 Extracurricular Activities
-- Led a team in designing a creative application for Project 2
-- Improved user interface and usability of the application
+- Led a team in designing a creative application for Project 2  
+- Improved user interface and usability of the application  
 
+---
+
+## 🎥 Mock Interview Video
+👉 (Upload your video and replace the link below)
+
+[Watch My Interview](your-video-file.mp4)
 
 ---
 
