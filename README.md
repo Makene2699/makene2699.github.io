@@ -8,18 +8,18 @@
 
 ---
 
-## 🧠 Professional Overview
+##  Professional Overview
 Third-year ICT Application Development student with a strong foundation in software development and problem-solving. Skilled in programming, database management, and developing applications using modern technologies. Passionate about building efficient software solutions and continuously learning new technologies. Seeking opportunities to apply my skills in a professional IT environment.
 
 ---
 
-## 🎓 Education
+##  Education
 **Cape Peninsula University of Technology**
 - Higher Certificate in ICT (2023–2024)
 - Diploma in ICT Applications Development *(Expected: Jan 2027)*
 
 ---
-## 💻 Technical Skills
+## Technical Skills
 - Database  
 - Java  
 - SQL  
@@ -31,9 +31,9 @@ Third-year ICT Application Development student with a strong foundation in softw
 ---
 
 
-## 🚀 Projects
+##  Projects
 
-### 📌 Admission Tracking System
+###  Admission Tracking System
 **Technologies Used:**
 - Java  
 - MySQL  
@@ -44,7 +44,7 @@ Designed and developed a system that allows users to track admission application
 
 ---
 
-### 🌱 Community Clean-Up Platform
+###  Community Clean-Up Platform
 **Technologies Used:**  
 -  HTML/CSS, JavaScript
 
@@ -54,16 +54,16 @@ Focused on improving community engagement and environmental awareness.
 
 ---
 
-## 👥 Extracurricular Activities
+##  Extracurricular Activities
 - Successfully led a team in the design and development of a creative application for Project 2, demonstrating leadership, collaboration, and problem-solving skills. Played a key role in improving the application’s user interface and overall usability by implementing user-centered design principles, resulting in a more intuitive and efficient user experience. Additionally, coordinated team efforts, ensured timely project completion, and maintained clear communication throughout the development process.
 
 
 ---
-## 🎥 Mock Interview Video
+##  Mock Interview Video
 [Watch My Interview](https://drive.google.com/file/d/1jYGfLVYWbKsvRcSFmPwwtZ7UTa5V9c8X/view?usp=sharing)
 
 ---
 
 
-## ✨ Reflection
+##  Reflection
 Through my academic journey, I have developed strong problem-solving skills, teamwork abilities, and technical knowledge. I continue to improve my skills by working on real-world projects and learning new technologies.
