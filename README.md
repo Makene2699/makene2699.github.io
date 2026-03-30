@@ -52,12 +52,6 @@ Focused on improving community engagement and environmental awareness.
 - Led a team in designing a creative application for Project 2
 - Improved user interface and usability of the application
 
----
-
-## 🎥 Mock Interview Video
-👉 (Upload your video and replace the link below)
-
-[Watch My Interview](your-video-file.mp4)
 
 ---
 
