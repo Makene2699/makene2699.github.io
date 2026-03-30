@@ -1,6 +1,6 @@
 # 💼 Nhlakanipho Makene
 
-## 📍 Contact Information
+##  Contact Information
 - 📞 Phone: 0685048220
 - 📧 Email: 223219665@mycput.ac.za
 - 📍 Location: Cape Town, Salt River
