@@ -44,8 +44,12 @@ Focused on improving community engagement and environmental awareness.
 ---
 
 ## 👥 Extracurricular Activities
-- Led a team in designing a creative application for Project 2  
-- Improved user interface and usability of the application  
+- Here’s a stronger, more detailed version that sounds more professional and impactful:
+
+**Extracurricular Activities**
+Successfully led a team in the design and development of a creative application for Project 2, demonstrating leadership, collaboration, and problem-solving skills. Played a key role in improving the application’s user interface and overall usability by implementing user-centered design principles, resulting in a more intuitive and efficient user experience. Additionally, coordinated team efforts, ensured timely project completion, and maintained clear communication throughout the development process.
+
+
 
 
 ---
