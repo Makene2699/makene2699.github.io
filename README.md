@@ -19,6 +19,17 @@ Third-year ICT Application Development student with a strong foundation in softw
 - Diploma in ICT Applications Development *(Expected: Jan 2027)*
 
 ---
+## 💻 Technical Skills
+- Database  
+- Java  
+- SQL  
+- Python  
+- Data Structures  
+- JavaScript  
+- Algorithms  
+
+---
+
 
 ## 🚀 Projects
 
