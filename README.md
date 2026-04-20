@@ -68,48 +68,48 @@ Focused on improving community engagement and environmental awareness.
 ##  Reflection
 Through my academic journey, I have developed strong problem-solving skills, teamwork abilities, and technical knowledge. I continue to improve my skills by working on real-world projects and learning new technologies.
 
-##  Reflection 1: Coding in Markdown (STAR Method)
+## 💡 Reflection: Coding My CV Using Markdown (STAR Method)
 
-**Situation:**  
-At the beginning of this assignment, I was introduced to Markdown as a new way of creating structured and professional documentation on GitHub. I had little prior experience using Markdown and was more familiar with traditional word processors like Microsoft Word.
+### Situation  
+For this assignment, I was required to create my CV using GitHub Flavoured Markdown instead of traditional tools like Microsoft Word. This was a new experience for me because I had to think in terms of code and structure rather than using visual formatting tools. It helped me understand how developers present information in a clean and structured way.
 
-**Task:**  
-My task was to learn and apply Markdown to design a complete digital portfolio that includes my CV, projects, and reflections. I needed to ensure that the content was well-organized, readable, and professionally presented.
+### Task  
+My task was to convert my CV into a professional Markdown document that would display correctly on GitHub. The CV needed to include all important sections such as personal details, education, technical skills, and projects, while remaining easy to read and well-organised.
 
-**Action:**  
-I took time to research Markdown syntax and practiced using headings, lists, links, and formatting techniques. I applied these concepts step-by-step while building my README file. I also reviewed my work multiple times to improve structure, spacing, and clarity to ensure that the portfolio was visually appealing and easy to navigate.
+### Action  
+I started by planning the structure of my CV and deciding the order of sections. I then learned how to use Markdown features such as headings, bullet points, bold text, and links. While working on the README.md file, I continuously checked the preview on GitHub to fix formatting issues like spacing and alignment. I also improved my project descriptions to clearly show the technologies I used and my role in each project.
 
-**Result:**  
-As a result, I successfully created a well-structured and professional portfolio using Markdown. This experience improved my technical documentation skills and helped me understand how developers present their work clearly on platforms like GitHub. I am now more confident in using Markdown for future projects.
-
----
-
-##  Reflection 2: Mock Interview Experience (STAR Method)
-
-**Situation:**  
-As part of my work readiness training, I participated in a mock interview designed to simulate a real-world job interview environment. This was my first formal interview experience in a professional setting.
-
-**Task:**  
-I was required to present myself professionally, answer both technical and behavioural questions, and demonstrate confidence, communication skills, and knowledge of my field.
-
-**Action:**  
-To prepare, I researched common interview questions and practiced my responses. During the interview, I focused on speaking clearly, maintaining good body language, and structuring my answers logically. I also made an effort to highlight my skills, academic projects, and strengths relevant to the ICT field.
-
-**Result:**  
-The experience helped me build confidence and improve my communication skills. I became more aware of how to structure my answers effectively and present myself professionally. I also identified areas for improvement, such as reducing nervousness and providing more detailed examples. Overall, the mock interview prepared me for real job opportunities.
+### Result  
+In the end, I produced a clean and professional CV that displays correctly on GitHub. This task improved my ability to write technical documents and pay attention to detail. I also became more confident using Markdown and GitHub, which are important tools in the software development industry. Now I have a CV that I can easily share online with potential employers.
 
 ---
 
-##  Reflection 3: GitHub Pages (STAR Method)
+## 💡 Reflection: Mock Interview Video (STAR Method)
 
-**Situation:**  
-During this assignment, I was required to publish my digital portfolio online using GitHub Pages. Before this, I had never deployed a website or hosted a project online.
+### Situation  
+As part of my portfolio, I had to complete a mock interview and include the video in my GitHub Pages website. This was important because it allowed me to practice how to present myself in a professional interview setting.
 
-**Task:**  
-My task was to configure my GitHub repository and use GitHub Pages to make my portfolio accessible as a live website. I needed to ensure that all content displayed correctly and that the website was functional.
+### Task  
+My task was to prepare for the interview, record a clear and professional video, and make sure it could be accessed through my portfolio. The video needed to show good communication skills and confidence.
 
-**Action:**  
-I explored GitHub Pages settings and followed the necessary steps to enable deployment from my repository. I selected the correct branch and ensured that my README file was properly formatted. I tested the live link and made adjustments where needed to improve the appearance and accessibility of the portfolio.
+### Action  
+I prepared by practicing common interview questions and thinking about how to answer them clearly. When recording the video, I made sure I was in a quiet environment with good lighting. After recording, I uploaded the video to Google Drive and made it accessible using a public link. I then added the link and embedded it into my README file so it could be viewed from my portfolio.
 
-**Result:**  
-I successfully published my portfolio as a live website. This achievement gave me practical experience in web deployment and improved my understanding of version control and hosting. I now have a professional online presence that I can share with potential employers.
+### Result  
+I was able to successfully include my interview video in my portfolio. This experience helped me improve my confidence, communication, and presentation skills. I also learned how to manage and share media content online. Now I feel more prepared for real job interviews and more comfortable presenting myself professionally.
+
+---
+
+## 💡 Reflection: Using GitHub Pages (STAR Method)
+
+### Situation  
+For this assignment, I needed to publish my digital portfolio online using GitHub Pages. Before this, I had only used GitHub to store code and had no experience with deploying a website.
+
+### Task  
+My task was to create a repository, organise my portfolio content, and configure GitHub Pages so that my work could be viewed as a live website. I also needed to make sure that all content, including my CV and video, worked properly online.
+
+### Action  
+I created my repository and added my README.md file with all my portfolio content. I then went to the repository settings and enabled GitHub Pages using the main branch. After deployment, I tested the website to check if everything was displaying correctly. When I found issues, such as formatting or links not working, I corrected them and updated the repository.
+
+### Result  
+I successfully published my portfolio and received a live website link. This gave me a better understanding of how websites are deployed and how GitHub can be used beyond just coding. I now have an online portfolio that I can share with lecturers and potential employers. This experience also improved my problem-solving skills and confidence in using GitHub tools.
