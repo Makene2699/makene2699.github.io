@@ -65,10 +65,10 @@ Focused on improving community engagement and environmental awareness.
 ---
 
 
-##  Reflection
-Through my academic journey, I have developed strong problem-solving skills, teamwork abilities, and technical knowledge. I continue to improve my skills by working on real-world projects and learning new technologies.
+## REFERENCES
+  SIhle Lawrence 071 540 5348
 
-## 💡 Reflection: Coding My CV Using Markdown (STAR Method)
+##  Reflection: Coding My CV Using Markdown (STAR Method)
 
 ### Situation  
 For this assignment, I was required to create my CV using GitHub Flavoured Markdown instead of traditional tools like Microsoft Word. This was a new experience for me because I had to think in terms of code and structure rather than using visual formatting tools. It helped me understand how developers present information in a clean and structured way.
