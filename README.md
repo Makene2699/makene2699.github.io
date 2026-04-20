@@ -84,7 +84,7 @@ In the end, I produced a clean and professional CV that displays correctly on Gi
 
 ---
 
-## 💡 Reflection: Mock Interview Video (STAR Method)
+##  Reflection: Mock Interview Video (STAR Method)
 
 ### Situation  
 As part of my portfolio, I had to complete a mock interview and include the video in my GitHub Pages website. This was important because it allowed me to practice how to present myself in a professional interview setting.
@@ -100,7 +100,7 @@ I was able to successfully include my interview video in my portfolio. This expe
 
 ---
 
-## 💡 Reflection: Using GitHub Pages (STAR Method)
+##  Reflection: Using GitHub Pages (STAR Method)
 
 ### Situation  
 For this assignment, I needed to publish my digital portfolio online using GitHub Pages. Before this, I had only used GitHub to store code and had no experience with deploying a website.
