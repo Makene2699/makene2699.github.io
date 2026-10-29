@@ -132,6 +132,9 @@ It connects **job seekers** and **employers**, lets users list and verify skills
  
 ### Evidence
 ![Agile Team Charter](images/team-charter.png)
+![Agile Team Charter, part 2](images/team-charter-2.png)
+
+![Agile Team Charter, part 3](images/team-charter-3.png)
  
 | Item | Our Agreement |
 |------|---------------|
