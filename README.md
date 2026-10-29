@@ -247,3 +247,30 @@ Items from our Trello Backlog and Stage A lists, in priority order:
 **Result:** Prioritising stopped us from building "nice to have" features before the essential ones. I learned that a backlog is a living list that changes as we learn more.
  
 ---
+
+## 5. Sprint Backlog
+ 
+### Evidence
+![Sprint Backlog](images/sprint-backlog.png)
+ 
+**Sprint:** [Sprint 1] | **Dates:** 1-10-2026
+**Sprint goal:**  Users can sign up, add skills, and receive a verified trust badge.
+ 
+| Task | Owner | Status |
+|------|-------|--------|
+| Supabase setup and skills schema | [Owner] | Done |
+| Skill categories | [Owner] | Done|
+| Authentication and multi-tenancy hardening (Issue #125) | Owen Jnr | Done |
+| [Task] | [Owner] | Done|
+| Test on device and fix bugs | Owen Jnr (QA) | Done |
+ 
+### Reflection (STAR)
+**Situation:** We could not build the whole backlog at once, so we had to decide what to finish in one sprint.
+ 
+**Task:** Select backlog items for the sprint and turn them into tasks that support one clear sprint goal.
+ 
+**Action:** We chose the highest-priority items, set a sprint goal, split them into tasks and assigned owners. I took on the authentication work and testing.
+ 
+**Result:** A clear sprint goal gave the team focus.
+ 
+---
