@@ -123,9 +123,38 @@ I successfully published my portfolio and received a live website link. This gav
 **Project:** Soloun, a mobile job marketplace built with React Native (Expo) and TypeScript.
 It connects **job seekers** and **employers**, lets users list and verify skills, earn trust badges (Bronze, Silver, Gold), post and apply for jobs, and find nearby vendors.
  
-**My role:** [Scrum Master / Product Owner / Developer]
-**Team members:** [Shaun], [Snalo], [Owen Jnr]
-**Source code:** [https://github.com/Makene2699/SInvApp.git]
+**My role:** Developer and QA (Owen Jnr, Nhlakanipho Makene)
+**Team members:** Shaun (Scrum Master), Agreement (Product Owner), Snalo (Developer), Owen Jnr (Developer and QA)
+ 
+---
+ 
+## 1. Agile Team Charter
+ 
+### Evidence
+![Agile Team Charter](images/team-charter.png)
+ 
+| Item | Our Agreement |
+|------|---------------|
+| **Purpose** | Build Soloun, a mobile app where people list their skills, get them verified through trust badges and ratings, and find or post local jobs. |
+| **Core values** | Respect, honesty, accountability, quality |
+| **Roles** | Shaun: Scrum Master · Agreement: Product Owner · Owen Jnr: Developer and QA · Snalo: Developer |
+| **Working hours** | Monday to Friday, 08:00 to 15:00 |
+| **Daily stand-up** | Every working day, 30 minutes to 1 hour, on Microsoft Teams. Each member says what they did, what they will do, and what blocks them. |
+| **Sprint length** | 1 week: planning at the start, review and retrospective at the end |
+| **Communication** | Microsoft Teams for meetings and quick updates · Trello for tasks and decisions · GitHub Issues for code tasks |
+| **Response time** | Reply to team messages on Teams within 1 hour during working hours |
+| **Decisions** | Team discusses first; if we cannot agree, the Product Owner decides. Big choices go to the "Blocked / Decisions Needed" list on Trello. |
+| **Definition of Done** | Feature works on an emulator or phone, code is pushed to GitHub and linked to its Issue, one teammate has checked it, and the Trello card is moved to Done |
+| **Handling problems** | Missed task: tell the team at stand-up and agree a new date. Disagreement: raise it in the team chat, then talk it through at the next stand-up. |
+ 
+### Reflection (STAR)
+**Situation:** Before writing any code, our team of four had to agree on how we would work together. In earlier group work, tasks were unclear and some members did not know what was expected of them.
+ 
+**Task:** Create a team charter that defined our purpose, values, roles, and working rules so that everyone was aligned from day one.
+ 
+**Action:** We agreed on roles (Shaun as Scrum Master, Agreement as Product Owner, and two developers), our working hours of 08:00 to 15:00, daily Teams stand-ups, a one-hour reply time, and a Definition of Done. I wrote these into the charter. [Add one more thing you personally did.]
+ 
+**Result:** The charter reduced confusion and gave us something to refer back to when work slipped. I learned that Agile depends on trust and shared agreements, not only on tools. [Add one honest challenge, for example a stand-up we missed.]
  
 ---
 
