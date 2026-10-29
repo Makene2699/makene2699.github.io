@@ -286,9 +286,10 @@ Items from our Trello Backlog and Stage A lists, in priority order:
 | 28-10-2026 | Review and retrospective (08:00, Teams) | Demo of completed work. Reviewed the Trello board and GitHub Issues. | Unfinished items carried over to the next sprint | Move unfinished cards to the next sprint and agree improvements. |
  
 **Retrospective**
--  What went well: [Fill in]
--  What did not go well: [Fill in]
--  What we will change: [Fill in]
+- 👍 What went well: Trello and Teams stand-ups kept everyone aware of progress.
+- 👎 What did not go well: Some decisions were made late and held up related tasks.
+- 🔧 What we will change: Settle decisions in the first stand-up of the week and keep the board up to date daily.
+- 
 ### Reflection (STAR)
 **Situation:** Agile relies on regular check-ins, and we needed a record of our progress and decisions.
  
