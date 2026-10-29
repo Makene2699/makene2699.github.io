@@ -272,3 +272,35 @@ Items from our Trello Backlog and Stage A lists, in priority order:
 **Result:** A clear sprint goal gave the team focus.
  
 ---
+
+## 6. Agile Logbook
+ 
+
+ 
+| Date | Meeting | Done / discussed | Blockers | Next steps |
+|------|---------|------------------|----------|------------|
+| 01-10-2026 | Sprint planning (08:00, Teams) | Set the sprint goal: users can sign up, add skills, and earn a verified trust badge on a secure account. Chose the Supabase setup, role selection, skill categories, verification scoring, trust badges and Issue #125. | None | Snalo starts Supabase and the skills schema. Owen Jnr starts authentication work. |
+| 05-10-2026 | Stand-up (08:00, Teams) | Supabase project created and skills tables started. Authentication design for Issue #125 discussed. | Decision needed on how ID documents are stored and accessed | Agreement (Product Owner) to decide. Continue schema and sign-up screens. |
+| 14-10-2026 | Stand-up (08:00, Teams) | Sign-up and role selection built. Skill categories in progress. Token authentication started. | Decision needed on where jobs and applications are stored | Add the decision to the "Blocked / Decisions Needed" list and settle it with the Product Owner. |
+| 21-10-2026 | Stand-up (08:00, Teams) | Verification and reputation scoring in progress. Trust badges started. Testing of finished screens began. | Skill decay rule not yet agreed | Finish scoring and badges. Owen Jnr continues QA testing. |
+| 28-10-2026 | Review and retrospective (08:00, Teams) | Demo of completed work. Reviewed the Trello board and GitHub Issues. | Unfinished items carried over to the next sprint | Move unfinished cards to the next sprint and agree improvements. |
+ 
+**Retrospective**
+-  What went well: [Fill in]
+-  What did not go well: [Fill in]
+-  What we will change: [Fill in]
+### Reflection (STAR)
+**Situation:** Agile relies on regular check-ins, and we needed a record of our progress and decisions.
+ 
+**Task:** Keep a logbook of stand-ups, sprint planning, and retrospective notes.
+ 
+**Action:** After each Teams meeting I recorded what was done, what blocked us, and what came next. At the end of the sprint we held a review and retrospective. 
+ 
+**Result:** The logbook showed our progress and helped us spot repeated problems. I learned that reflecting on how we work is as important as the code. 
+ 
+---
+ 
+## 🔗 Overall Reflection: Connecting the Artefacts
+ 
+The charter set how our team of four works together. The user stories defined what to build, Trello made the work visible, the product backlog ranked everything, the sprint backlog focused us on one goal, and the logbook recorded how it went. Together they showed me the full Agile cycle, and I will use it in future projects. 
+ 
