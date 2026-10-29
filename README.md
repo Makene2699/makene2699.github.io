@@ -258,10 +258,8 @@ Items from our Trello Backlog and Stage A lists, in priority order:
  
 | Task | Owner | Status |
 |------|-------|--------|
-| Supabase setup and skills schema | [Owner] | Done |
-| Skill categories | [Owner] | Done|
+| Supabase setup and skills schema | [ Snalo] | Done |
 | Authentication and multi-tenancy hardening (Issue #125) | Owen Jnr | Done |
-| [Task] | [Owner] | Done|
 | Test on device and fix bugs | Owen Jnr (QA) | Done |
  
 ### Reflection (STAR)
