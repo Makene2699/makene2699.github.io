@@ -155,10 +155,95 @@ It connects **job seekers** and **employers**, lets users list and verify skills
  
 **Task:** Create a team charter that defined our purpose, values, roles, and working rules so that everyone was aligned from day one.
  
-**Action:** We agreed on roles (Shaun as Scrum Master, Agreement as Product Owner, and two developers), our working hours of 08:00 to 15:00, daily Teams stand-ups, a one-hour reply time, and a Definition of Done. I wrote these into the charter. [Add one more thing you personally did.]
+**Action:** We agreed on roles (Shaun as Scrum Master, Agreement as Product Owner, and two developers), our working hours of 08:00 to 15:00, daily Teams stand-ups, a one-hour reply time, and a Definition of Done. I wrote these into the charter. 
  
-**Result:** The charter reduced confusion and gave us something to refer back to when work slipped. I learned that Agile depends on trust and shared agreements, not only on tools. [Add one honest challenge, for example a stand-up we missed.]
+**Result:** The charter reduced confusion and gave us something to refer back to when work slipped. I learned that Agile depends on trust and shared agreements, not only on tools. 
  
 ---
 
+## 2. User Stories and Tasks
+ 
+### Evidence
+![User Stories and Tasks](images/user-stories-tasks.png)
+ 
+A real task from our GitHub Issues, assigned to me:
+ 
+![GitHub Issue 125](images/github-issue-125.png)
+ 
+*Issue #125, "Authentication & Multi-Tenancy Hardening": introduce local token authentication and webhook rate-limiting. Assigned to me with Medium priority.*
+ 
+Format: *As a [type of user], I want [goal], so that [benefit].*
+ 
+| ID | User Story | Tasks |
+|----|-----------|-------|
+| US-01 | As a **new user**, I want to create an account and choose my role (Job Seeker, Employer or Both), so that the app shows what is relevant to me. | Design onboarding · Build role selection · Save profile |
+| US-02 | As a **job seeker**, I want to add my skills in categories, so that employers can see what I can do. | Set up Supabase and skills schema · Build skill categories · Show skills list |
+| US-03 | As an **employer**, I want to post a job and browse workers, so that I can find help. | Build Post Job form · Build Job Board · Build Job Detail |
+| US-04 | As a **user**, I want my skills verified with trust badges, so that others can trust me. | Build verification and reputation scoring · Add trust badges |
+| US-05 | As an **employer**, I want to leave a 5-star rating after a job, so that reputation reflects real work. | Build rating sheet · Update reputation score |
+| US-06 | As a **user with a basic phone**, I want to use Soloun through an off-grid hub, so that I am not left out. | Build Off-grid Hub for feature phones |
+| US-07 | As a **user**, I want my account to be secure, so that my data is safe. | Local token authentication · Webhook rate-limiting (Issue #125) |
+ 
+### Reflection (STAR)
+**Situation:** We had a big app idea but did not know how to break it into manageable pieces.
+ 
+**Task:** Write clear user stories from the user's point of view and split each into small tasks that one person can finish.
+ 
+**Action:** We thought about who would use Soloun (job seekers, employers, and people on basic phones) and what each of them needs. We wrote one story per need, then broke each into design, coding, and testing tasks and logged the code tasks as GitHub Issues. [Add your own contribution.]
+ 
+**Result:** Writing from the user's perspective kept us focused on value instead of just features. Small tasks made progress easy to see. I learned that a story that is too big must be split before it can be planned. [Add what you would improve.]
+ 
+---
+ 
+## 3. Trello Board
+ 
+### Evidence
+![Trello Board](images/trello-board.png)
+ 
+**Board:** Soloun App
+**Board link:** [paste your Trello board link]
+ 
+Our lists include **Admin & Tracking**, **Stage A: To Do**, **Backlog**, **Blocked / Decisions Needed** and **App Pitch Deck**. Cards carry labels and checklists, and the board is shared with the whole team.
+ 
+### Reflection (STAR)
+**Situation:** With several people working on different parts of the app, we needed one place to see who was doing what.
+ 
+**Task:** Set up and maintain a Trello board for the project.
+ 
+**Action:** We created lists for admin, the build stages, the backlog, and decisions that were still needed. We turned each task into a card with labels and checklists and added all members. [Add your own actions.]
+ 
+**Result:** The board made progress and blockers visible to everyone, and the "Blocked / Decisions Needed" list stopped decisions from getting lost. I learned how a visual board reduces confusion.
+ 
+---
+ 
+## 4. Product Backlog
+ 
+### Evidence
+![Product Backlog](images/product-backlog.png)
+ 
+Items from our Trello Backlog and Stage A lists, in priority order:
+ 
+| Priority | Item | Status |
+|:--:|------|--------|
+| 1 | Supabase setup and skills schema | [done|
+| 2 | Skill categories | [Done] |
+| 3 | Verification and reputation scoring | [Done] |
+| 4 | Trust badges | [Done] |
+| 5 | 5-star service quality ratings | [Done] |
+| 6 | Off-grid Hub for feature phones | [Done] |
+| 7 | Verified-only location range toggle | [Done] |
+| 8 | Skill decay for unused skills | [Done] |
+| 9 | Dispute resolution | [Done] |
+ 
 
+ 
+### Reflection (STAR)
+**Situation:** We had many ideas and limited time before the deadline.
+ 
+**Task:** Create a product backlog that listed everything needed and ranked it by importance.
+ 
+**Action:** As a team we listed all features and the Product Owner, Agreement, ordered them by value. Core features such as the database and skills came first; extras such as skill decay and dispute resolution came later.
+ 
+**Result:** Prioritising stopped us from building "nice to have" features before the essential ones. I learned that a backlog is a living list that changes as we learn more.
+ 
+---
