@@ -114,3 +114,19 @@ I created my repository and added my README.md file with all my portfolio conten
 
 ### Result  
 I successfully published my portfolio and received a live website link. This gave me a better understanding of how websites are deployed and how GitHub can be used beyond just coding. I now have an online portfolio that I can share with lecturers and potential employers. This experience also improved my problem-solving skills and confidence in using GitHub tools.
+
+
+---
+ 
+# 🚀 Agile Project: Soloun (Project Presentation 3)
+ 
+**Project:** Soloun, a mobile job marketplace built with React Native (Expo) and TypeScript.
+It connects **job seekers** and **employers**, lets users list and verify skills, earn trust badges (Bronze, Silver, Gold), post and apply for jobs, and find nearby vendors.
+ 
+**My role:** [Scrum Master / Product Owner / Developer]
+**Team members:** [Shaun], [Snalo], [Owen Jnr]
+**Source code:** [https://github.com/Makene2699/SInvApp.git]
+ 
+---
+
+
