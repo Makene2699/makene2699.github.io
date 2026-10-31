@@ -1,92 +1,331 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Nhlakanipho Makene - Portfolio</title>
-  <style>
-    body { font-family: Arial, sans-serif; max-width: 900px; margin: auto; padding: 30px; background: #f9f9f9; color: #222; }
-    h1 { color: #c0392b; }
-    h2 { border-bottom: 2px solid #c0392b; padding-bottom: 5px; margin-top: 30px; }
-    h3 { color: #c0392b; }
-    ul { line-height: 2; }
-    a { color: #c0392b; }
-    .project { background: #fff; border-left: 4px solid #c0392b; padding: 10px 15px; margin-bottom: 15px; }
-    video { border: 2px solid #c0392b; border-radius: 8px; }
-  </style>
-</head>
-<body>
+<!-- ===== AGILE SECTION: paste just before </body> ===== -->
+<style>
+#agile table{border-collapse:collapse;width:100%;margin:10px 0 16px;background:#fff;font-size:15px}
+#agile th,#agile td{border:1px solid #ccc;padding:7px 9px;text-align:left;vertical-align:top}
+#agile th{background:#f3e3e0}
+#agile img{max-width:100%;border:1px solid #ccc;border-radius:6px;margin:8px 0}
+#agile h3{color:#c0392b}
+.scrollx{overflow-x:auto}
+</style>
+<div id="agile">
+<h2>🚀 Agile Project: Soloun (Project Presentation 3)</h2>
+<p><strong>Project:</strong> Soloun, a mobile job marketplace built with React Native (Expo) and TypeScript.
+It connects <strong>job seekers</strong> and <strong>employers</strong>, lets users list and verify skills, earn trust badges (Bronze, Silver, Gold), post and apply for jobs, and find nearby vendors.</p>
+<p><strong>My role:</strong> Developer and QA (Owen Jnr, Nhlakanipho Makene)
+<strong>Team members:</strong> Shaun (Scrum Master), Agreement (Product Owner), Snalo (Developer), Owen Jnr (Developer and QA)</p>
 
-  <h1>💼 Nhlakanipho Makene</h1>
+<h3>1. Agile Team Charter</h3>
+<h4>Evidence</h4>
+<p><img alt="Agile Team Charter" src="images/team-charter.png" /></p>
+<p><img alt="Agile Team Charter, part 2" src="images/team-charter-2.png" /></p>
+<p><img alt="Agile Team Charter, part 3" src="images/team-charter-3.png" /></p>
+<div class="scrollx"><table>
+<thead>
+<tr>
+<th>Item</th>
+<th>Our Agreement</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Purpose</strong></td>
+<td>Build Soloun, a mobile app where people list their skills, get them verified through trust badges and ratings, and find or post local jobs.</td>
+</tr>
+<tr>
+<td><strong>Core values</strong></td>
+<td>Respect, honesty, accountability, quality</td>
+</tr>
+<tr>
+<td><strong>Roles</strong></td>
+<td>Shaun: Scrum Master · Agreement: Product Owner · Owen Jnr: Developer and QA · Snalo: Developer</td>
+</tr>
+<tr>
+<td><strong>Working hours</strong></td>
+<td>Monday to Friday, 08:00 to 15:00</td>
+</tr>
+<tr>
+<td><strong>Daily stand-up</strong></td>
+<td>Every working day, 30 minutes to 1 hour, on Microsoft Teams. Each member says what they did, what they will do, and what blocks them.</td>
+</tr>
+<tr>
+<td><strong>Sprint length</strong></td>
+<td>1 week: planning at the start, review and retrospective at the end</td>
+</tr>
+<tr>
+<td><strong>Communication</strong></td>
+<td>Microsoft Teams for meetings and quick updates · Trello for tasks and decisions · GitHub Issues for code tasks</td>
+</tr>
+<tr>
+<td><strong>Response time</strong></td>
+<td>Reply to team messages on Teams within 1 hour during working hours</td>
+</tr>
+<tr>
+<td><strong>Decisions</strong></td>
+<td>Team discusses first; if we cannot agree, the Product Owner decides. Big choices go to the "Blocked / Decisions Needed" list on Trello.</td>
+</tr>
+<tr>
+<td><strong>Definition of Done</strong></td>
+<td>Feature works on an emulator or phone, code is pushed to GitHub and linked to its Issue, one teammate has checked it, and the Trello card is moved to Done</td>
+</tr>
+<tr>
+<td><strong>Handling problems</strong></td>
+<td>Missed task: tell the team at stand-up and agree a new date. Disagreement: raise it in the team chat, then talk it through at the next stand-up.</td>
+</tr>
+</tbody>
+</table></div>
+<h4>Reflection (STAR)</h4>
+<p><strong>Situation:</strong> Before writing any code, our team of four had to agree on how we would work together. In earlier group work, tasks were unclear and some members did not know what was expected of them.</p>
+<p><strong>Task:</strong> Create a team charter that defined our purpose, values, roles, and working rules so that everyone was aligned from day one.</p>
+<p><strong>Action:</strong> We agreed on roles (Shaun as Scrum Master, Agreement as Product Owner, and two developers), our working hours of 08:00 to 15:00, daily Teams stand-ups, a one-hour reply time, and a Definition of Done. I wrote these into the charter. [Add one more thing you personally did.]</p>
+<p><strong>Result:</strong> The charter reduced confusion and gave us something to refer back to when work slipped. I learned that Agile depends on trust and shared agreements, not only on tools. [Add one honest challenge, for example a stand-up we missed.]</p>
 
-  <h2>Contact Information</h2>
-  <ul>
-    <li>📞 Phone: 0685048220</li>
-    <li>📧 Email: 223219665@mycput.ac.za</li>
-    <li>📍 Location: Cape Town, Salt River</li>
-    <li>🌐 GitHub: <a href="https://github.com/Makene2699">https://github.com/Makene2699</a></li>
-  </ul>
+<h3>2. User Stories and Tasks</h3>
+<h4>Evidence</h4>
+<p><img alt="User Stories and Tasks" src="images/user-stories-tasks.png" /></p>
+<p>A real task from our GitHub Issues, assigned to me:</p>
+<p><img alt="GitHub Issue 125" src="images/github-issue-125.png" /></p>
+<p><em>Issue #125, "Authentication &amp; Multi-Tenancy Hardening": introduce local token authentication and webhook rate-limiting. Assigned to me with Medium priority.</em></p>
+<p>Format: <em>As a [type of user], I want [goal], so that [benefit].</em></p>
+<div class="scrollx"><table>
+<thead>
+<tr>
+<th>ID</th>
+<th>User Story</th>
+<th>Tasks</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>US-01</td>
+<td>As a <strong>new user</strong>, I want to create an account and choose my role (Job Seeker, Employer or Both), so that the app shows what is relevant to me.</td>
+<td>Design onboarding · Build role selection · Save profile</td>
+</tr>
+<tr>
+<td>US-02</td>
+<td>As a <strong>job seeker</strong>, I want to add my skills in categories, so that employers can see what I can do.</td>
+<td>Set up Supabase and skills schema · Build skill categories · Show skills list</td>
+</tr>
+<tr>
+<td>US-03</td>
+<td>As an <strong>employer</strong>, I want to post a job and browse workers, so that I can find help.</td>
+<td>Build Post Job form · Build Job Board · Build Job Detail</td>
+</tr>
+<tr>
+<td>US-04</td>
+<td>As a <strong>user</strong>, I want my skills verified with trust badges, so that others can trust me.</td>
+<td>Build verification and reputation scoring · Add trust badges</td>
+</tr>
+<tr>
+<td>US-05</td>
+<td>As an <strong>employer</strong>, I want to leave a 5-star rating after a job, so that reputation reflects real work.</td>
+<td>Build rating sheet · Update reputation score</td>
+</tr>
+<tr>
+<td>US-06</td>
+<td>As a <strong>user with a basic phone</strong>, I want to use Soloun through an off-grid hub, so that I am not left out.</td>
+<td>Build Off-grid Hub for feature phones</td>
+</tr>
+<tr>
+<td>US-07</td>
+<td>As a <strong>user</strong>, I want my account to be secure, so that my data is safe.</td>
+<td>Local token authentication · Webhook rate-limiting (Issue #125)</td>
+</tr>
+</tbody>
+</table></div>
+<h4>Reflection (STAR)</h4>
+<p><strong>Situation:</strong> We had a big app idea but did not know how to break it into manageable pieces.</p>
+<p><strong>Task:</strong> Write clear user stories from the user's point of view and split each into small tasks that one person can finish.</p>
+<p><strong>Action:</strong> We thought about who would use Soloun (job seekers, employers, and people on basic phones) and what each of them needs. We wrote one story per need, then broke each into design, coding, and testing tasks and logged the code tasks as GitHub Issues. [Add your own contribution.]</p>
+<p><strong>Result:</strong> Writing from the user's perspective kept us focused on value instead of just features. Small tasks made progress easy to see. I learned that a story that is too big must be split before it can be planned. [Add what you would improve.]</p>
 
-  <h2>Professional Overview</h2>
-  <p>Third-year ICT Application Development student with a strong foundation in software development and problem-solving. Skilled in programming, database management, and developing applications using modern technologies. Passionate about building efficient software solutions and continuously learning new technologies. Seeking opportunities to apply my skills in a professional IT environment.</p>
+<h3>3. Trello Board</h3>
+<h4>Evidence</h4>
+<p><img alt="Trello Board" src="images/trello-board.png" /></p>
+<p><strong>Board:</strong> Soloun App
+<strong>Board link:</strong> [paste your Trello board link]</p>
+<p>Our lists include <strong>Admin &amp; Tracking</strong>, <strong>Stage A: To Do</strong>, <strong>Backlog</strong>, <strong>Blocked / Decisions Needed</strong> and <strong>App Pitch Deck</strong>. Cards carry labels and checklists, and the board is shared with the whole team.</p>
+<h4>Reflection (STAR)</h4>
+<p><strong>Situation:</strong> With several people working on different parts of the app, we needed one place to see who was doing what.</p>
+<p><strong>Task:</strong> Set up and maintain a Trello board for the project.</p>
+<p><strong>Action:</strong> We created lists for admin, the build stages, the backlog, and decisions that were still needed. We turned each task into a card with labels and checklists and added all members. [Add your own actions.]</p>
+<p><strong>Result:</strong> The board made progress and blockers visible to everyone, and the "Blocked / Decisions Needed" list stopped decisions from getting lost. I learned how a visual board reduces confusion.</p>
 
-  <h2>Education</h2>
-  <p><strong>Cape Peninsula University of Technology</strong></p>
-  <ul>
-    <li>Higher Certificate in ICT (2023–2024)</li>
-    <li>Diploma in ICT Applications Development (Expected: Jan 2027)</li>
-  </ul>
+<h3>4. Product Backlog</h3>
+<h4>Evidence</h4>
+<p><img alt="Product Backlog" src="images/product-backlog.png" /></p>
+<p>Items from our Trello Backlog and Stage A lists, in priority order:</p>
+<div class="scrollx"><table>
+<thead>
+<tr>
+<th style="text-align: center;">Priority</th>
+<th>Item</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td>Supabase setup and skills schema</td>
+<td>[Status]</td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td>Skill categories</td>
+<td>[Status]</td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td>Verification and reputation scoring</td>
+<td>[Status]</td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td>Trust badges</td>
+<td>[Status]</td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td>5-star service quality ratings</td>
+<td>[Status]</td>
+</tr>
+<tr>
+<td style="text-align: center;">6</td>
+<td>Off-grid Hub for feature phones</td>
+<td>[Status]</td>
+</tr>
+<tr>
+<td style="text-align: center;">7</td>
+<td>Verified-only location range toggle</td>
+<td>[Status]</td>
+</tr>
+<tr>
+<td style="text-align: center;">8</td>
+<td>Skill decay for unused skills</td>
+<td>[Status]</td>
+</tr>
+<tr>
+<td style="text-align: center;">9</td>
+<td>Dispute resolution</td>
+<td>[Status]</td>
+</tr>
+</tbody>
+</table></div>
+<p><em>Change the order and statuses so they match your Trello board.</em></p>
+<h4>Reflection (STAR)</h4>
+<p><strong>Situation:</strong> We had many ideas and limited time before the deadline.</p>
+<p><strong>Task:</strong> Create a product backlog that listed everything needed and ranked it by importance.</p>
+<p><strong>Action:</strong> As a team we listed all features and the Product Owner, Agreement, ordered them by value. Core features such as the database and skills came first; extras such as skill decay and dispute resolution came later. [Add your own actions.]</p>
+<p><strong>Result:</strong> Prioritising stopped us from building "nice to have" features before the essential ones. I learned that a backlog is a living list that changes as we learn more.</p>
 
-  <h2>Technical Skills</h2>
-  <ul>
-    <li>Java</li>
-    <li>SQL</li>
-    <li>Python</li>
-    <li>JavaScript</li>
-    <li>Data Structures & Algorithms</li>
-    <li>Database Management</li>
-  </ul>
+<h3>5. Sprint Backlog</h3>
+<h4>Evidence</h4>
+<p><img alt="Sprint Backlog" src="images/sprint-backlog.png" /></p>
+<p><strong>Sprint:</strong> [Sprint 1] | <strong>Dates:</strong> [dates]
+<strong>Sprint goal:</strong> [One sentence, for example: Users can sign up, add skills, and receive a verified trust badge.]</p>
+<div class="scrollx"><table>
+<thead>
+<tr>
+<th>Task</th>
+<th>Owner</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Supabase setup and skills schema</td>
+<td>[Owner]</td>
+<td>[Status]</td>
+</tr>
+<tr>
+<td>Skill categories</td>
+<td>[Owner]</td>
+<td>[Status]</td>
+</tr>
+<tr>
+<td>Authentication and multi-tenancy hardening (Issue #125)</td>
+<td>Owen Jnr</td>
+<td>[Status]</td>
+</tr>
+<tr>
+<td>[Task]</td>
+<td>[Owner]</td>
+<td>[Status]</td>
+</tr>
+<tr>
+<td>Test on device and fix bugs</td>
+<td>Owen Jnr (QA)</td>
+<td>[Status]</td>
+</tr>
+</tbody>
+</table></div>
+<h4>Reflection (STAR)</h4>
+<p><strong>Situation:</strong> We could not build the whole backlog at once, so we had to decide what to finish in one sprint.</p>
+<p><strong>Task:</strong> Select backlog items for the sprint and turn them into tasks that support one clear sprint goal.</p>
+<p><strong>Action:</strong> We chose the highest-priority items, set a sprint goal, split them into tasks and assigned owners. I took on the authentication work and testing. [Add your own actions.]</p>
+<p><strong>Result:</strong> A clear sprint goal gave the team focus. [Add what you completed and what carried over, and what you learned about estimating.]</p>
 
-  <h2>Projects</h2>
-  <div class="project">
-    <h3>Admission Tracking System</h3>
-    <p><strong>Technologies:</strong> Java, MySQL, NetBeans, OOP</p>
-    <p>Designed and developed a system that allows users to track admission applications in real time. Users can view updates, explore job opportunities, and submit applications.</p>
-  </div>
-  <div class="project">
-    <h3>Community Clean-Up Platform</h3>
-    <p><strong>Technologies:</strong> HTML/CSS, JavaScript, Java</p>
-    <p>Developed a platform that allows users to report dirty areas, organize clean-up events, and volunteer. Focused on improving community engagement and environmental awareness.</p>
-  </div>
+<h3>6. Agile Logbook</h3>
+<h4>Evidence</h4>
+<p><img alt="Agile Logbook" src="images/agile-logbook.png" /></p>
+<div class="scrollx"><table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Meeting</th>
+<th>Done / discussed</th>
+<th>Blockers</th>
+<th>Next steps</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01-10-2026</td>
+<td>Sprint planning (08:00, Teams)</td>
+<td>Set the sprint goal: users can sign up, add skills, and earn a verified trust badge on a secure account. Chose the Supabase setup, role selection, skill categories, verification scoring, trust badges and Issue #125.</td>
+<td>None</td>
+<td>Snalo starts Supabase and the skills schema. Owen Jnr starts authentication work.</td>
+</tr>
+<tr>
+<td>05-10-2026</td>
+<td>Stand-up (08:00, Teams)</td>
+<td>Supabase project created and skills tables started. Authentication design for Issue #125 discussed.</td>
+<td>Decision needed on how ID documents are stored and accessed</td>
+<td>Agreement (Product Owner) to decide. Continue schema and sign-up screens.</td>
+</tr>
+<tr>
+<td>14-10-2026</td>
+<td>Stand-up (08:00, Teams)</td>
+<td>Sign-up and role selection built. Skill categories in progress. Token authentication started.</td>
+<td>Decision needed on where jobs and applications are stored</td>
+<td>Add the decision to the "Blocked / Decisions Needed" list and settle it with the Product Owner.</td>
+</tr>
+<tr>
+<td>21-10-2026</td>
+<td>Stand-up (08:00, Teams)</td>
+<td>Verification and reputation scoring in progress. Trust badges started. Testing of finished screens began.</td>
+<td>Skill decay rule not yet agreed</td>
+<td>Finish scoring and badges. Owen Jnr continues QA testing.</td>
+</tr>
+<tr>
+<td>28-10-2026</td>
+<td>Review and retrospective (08:00, Teams)</td>
+<td>Demo of completed work. Reviewed the Trello board and GitHub Issues.</td>
+<td>Unfinished items carried over to the next sprint</td>
+<td>Move unfinished cards to the next sprint and agree improvements.</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Retrospective</strong>
+- 👍 What went well: Trello and Teams stand-ups kept everyone aware of progress.
+- 👎 What did not go well: Some decisions were made late and held up related tasks.
+- 🔧 What we will change: Settle decisions in the first stand-up of the week and keep the board up to date daily.</p>
+<h4>Reflection (STAR)</h4>
+<p><strong>Situation:</strong> Agile relies on regular check-ins, and we needed a record of our progress and decisions.</p>
+<p><strong>Task:</strong> Keep a logbook of stand-ups, sprint planning, and retrospective notes.</p>
+<p><strong>Action:</strong> After each Teams meeting I recorded what was done, what blocked us, and what came next. At the end of the sprint we held a review and retrospective. [Add your own actions.]</p>
+<p><strong>Result:</strong> The logbook showed our progress and helped us spot repeated problems. I learned that reflecting on how we work is as important as the code. [Add one personal takeaway.]</p>
 
-  <h2>Extracurricular Activities</h2>
-  <p>Successfully led a team in the design and development of a creative application for Project 2, demonstrating leadership, collaboration, and problem-solving skills. Played a key role in improving the application's user interface and overall usability by implementing user-centered design principles, resulting in a more intuitive and efficient user experience. Additionally, coordinated team efforts, ensured timely project completion, and maintained clear communication throughout the development process.</p>
-
-  <h2>Mock Interview Video</h2>
-  <video width="100%" controls>
-    <source src="https://github.com/Makene2699/makene2699.github.io/releases/download/v1.0/WhatsApp.Video.2026-06-23.at.10.32.30.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-
-  <h2>References</h2>
-  <p>Sihle Lawrence — 071 540 5348</p>
-
-  <h2>Reflection: Coding My CV Using Markdown (STAR Method)</h2>
-  <p><strong>Situation:</strong> For this assignment, I was required to create my CV using GitHub Flavoured Markdown instead of traditional tools like Microsoft Word.</p>
-  <p><strong>Task:</strong> My task was to convert my CV into a professional Markdown document that would display correctly on GitHub.</p>
-  <p><strong>Action:</strong> I started by planning the structure of my CV and deciding the order of sections. I learned how to use Markdown features such as headings, bullet points, bold text, and links. I continuously checked the preview on GitHub to fix formatting issues.</p>
-  <p><strong>Result:</strong> I produced a clean and professional CV that displays correctly on GitHub. This task improved my ability to write technical documents and pay attention to detail.</p>
-
-  <h2>Reflection: Mock Interview Video (STAR Method)</h2>
-  <p><strong>Situation:</strong> As part of my portfolio, I had to complete a mock interview and include the video in my GitHub Pages website.</p>
-  <p><strong>Task:</strong> My task was to prepare for the interview, record a clear and professional video, and make sure it could be accessed through my portfolio.</p>
-  <p><strong>Action:</strong> I prepared by practicing common interview questions. I recorded in a quiet environment with good lighting, then uploaded and embedded the video into my portfolio.</p>
-  <p><strong>Result:</strong> I successfully included my interview video in my portfolio. This experience helped me improve my confidence, communication, and presentation skills.</p>
-
-  <h2>Reflection: Using GitHub Pages (STAR Method)</h2>
-  <p><strong>Situation:</strong> For this assignment, I needed to publish my digital portfolio online using GitHub Pages.</p>
-  <p><strong>Task:</strong> My task was to create a repository, organise my portfolio content, and configure GitHub Pages so that my work could be viewed as a live website.</p>
-  <p><strong>Action:</strong> I created my repository, added my README.md file, enabled GitHub Pages from settings, and tested the website to fix any issues.</p>
-  <p><strong>Result:</strong> I successfully published my portfolio and received a live website link. I now have an online portfolio I can share with lecturers and potential employers.</p>
-
-</body>
-</html>
+<h3>🔗 Overall Reflection: Connecting the Artefacts</h3>
+<p>The charter set how our team of four works together. The user stories defined what to build, Trello made the work visible, the product backlog ranked everything, the sprint backlog focused us on one goal, and the logbook recorded how it went. Together they showed me the full Agile cycle, and I will use it in future projects. [Add 1 or 2 sentences about how you grew as a team member.]</p>
+</div>
+<!-- ===== END AGILE SECTION ===== -->
